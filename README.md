@@ -25,4 +25,10 @@ A passionate Software Developer
 ## 📄 My Resume
 [![Resume](https://img.shields.io/badge/View%20Resume-Download-blue)](https://github.com/ChanduPulapaka/RESUME.git)
 
+---
+
+## 📈 Fun GitHub Metrics  
+- **Longest Streak**: 15 days 🔥  
+- **Total Contributions This Year**: 456+ 🚀 
+
 
