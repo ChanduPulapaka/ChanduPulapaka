@@ -3,7 +3,7 @@
 A passionate Software Developer
 
 - 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Python**, **AWS**, **Microservices Architectures** 
 - 📫 How to reach me: **cpulapaka7@gmail.com**
 - ⚡ Fun fact: **I do stand-up comedy**
 
