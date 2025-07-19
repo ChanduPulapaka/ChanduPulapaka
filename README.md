@@ -21,8 +21,7 @@ A passionate Software Developer
 ---
 
 
-## 📈 Fun GitHub Metrics  
-- **Longest Streak**: 15 days 🔥  
+## 📈 Fun GitHub Metrics    
 - **Total Contributions This Year**: 456+ 🚀 
 
 
