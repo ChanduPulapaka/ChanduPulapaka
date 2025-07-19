@@ -2,10 +2,6 @@
 
 A passionate Software Developer
 
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Java**, **Python**, **AWS**, **Microservices Architectures** 
-- ⚡ Fun fact: **I do stand-up comedy**
-
 ---
 
 ## Connect with me:
